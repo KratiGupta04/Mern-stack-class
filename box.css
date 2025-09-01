@@ -1,0 +1,22 @@
+#box1{
+    background-color: burlywood;
+    height: 100px;
+    width: 100px;
+    
+}
+#box2{
+    background-color: teal;
+    height: 100px;
+    width: 100px;
+}
+#box3{
+    background-color: salmon;
+    height:100px;
+    width: 100px;
+}
+#box4{
+    background-color: salmon;
+    height: 200px;
+    width: 200px;
+    background-image:url("https://img.freepik.com/free-photo/sunset-time-tropical-beach-sea-with-coconut-palm-tree_74190-1075.jpg?semt=ais_hybrid&w=740&q=80");
+    /* visibility: hidden; */}
